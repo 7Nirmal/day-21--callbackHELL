@@ -1,0 +1,11 @@
+body{
+    background-color: wheat;
+}
+#count{
+    text-align: center;
+    margin: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 100px;
+    color:crimson;
+    }
